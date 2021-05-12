@@ -1,0 +1,71 @@
+
+*{
+	font-family: "OpenSans-Light" Helvetica;
+}
+.container {
+    background-color: white;
+    width:1140px;
+}
+#logo {
+    display: inline-block;
+    width:100px;
+    height:100px;
+}
+.nav {
+    list-style:none;
+    display:flex;
+    padding:0px 10px 10px 10px;
+    vertical-align: top;
+    margin-left: 400px;
+    font-family: "OpenSans-Light" Helvetica;
+    font-size: 18px;
+    color:gray;
+}
+#semilla {
+    display:inline-block;
+    padding:auto;
+    width:1140px;
+    height:400px;
+}
+#text {
+    text-align: center;
+    padding:30px 150px 0px 150px;
+    font-size: 12px;
+    font-family: "OpenSans-Light" Helvetica;
+}
+.box {
+    margin-top:40px;
+    vertical-align: top;
+    width:1140px;
+}
+#mision {
+    width:540px;
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    font-size:12px;
+    margin:0px 10px 0px 10px;
+}
+#vision {
+    width:540px;
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    font-size: 12px;
+    margin:0px 10px 0px 10px;
+}
+#foto {
+    width:550px;
+    height:380px;
+    display:inline-block;
+}
+#texto {
+    position:relative;
+}
+.servicios {
+    height:500px;
+    background-color: white;
+}
+
+
+
